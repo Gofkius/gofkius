@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Gofkius/gofkius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriel, a computer science student based in Spain.
 
-Here are some ideas to get you started:
+Currently working on a Custom CRM made in React and ExpressJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work on front-end projects but also dabble in some backend.
+
+I use Figma for mockups and basic prototypes
+
+
+
+
+## 🛠 Tools & Tech
+
+- Java, React, TypeScript, Tailwind
+- Figma, Docker, Apple Notes
+
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielius-dikcius-a384b8239/)
